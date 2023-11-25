@@ -47,3 +47,5 @@ python3 manage.py runserver
 Once the server is hosted, head over to http://127.0.0.1:8000/todos for the App.
 
 Cheers and Happy Coding :)
+
+After Changing the port to 0.0.0.0:8001. While putting the url write [PublicIP]:8001.
